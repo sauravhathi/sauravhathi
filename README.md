@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - [Instagram](https://www.instagram.com/saurav_hathi/)
 - [Linkedin](https://www.linkedin.com/in/sauravhathi/)
+- [Youtube](https://www.youtube.com/c/SauravHathi)
 
 <!---
 sauravhathi/sauravhathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
