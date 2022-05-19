@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, C++, Python, JavaScript**
 
-- 📫 How to reach me **sauravhathi680@gmail.com**
+- 📫 How to reach me **https://t.me/sauravhathi_yt_discussion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
