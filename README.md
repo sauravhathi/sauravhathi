@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravhathi" alt="sauravhathi" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, ReactJS, Data Science**
+- 🌱 I’m currently learning **Flutter, ReactJS and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sauravhathi](https://github.com/sauravhathi)
 
