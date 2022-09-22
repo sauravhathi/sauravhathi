@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/sauravhathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravhathi" height="30" width="40" /></a>
 <a href="https://instagram.com/saurav_hathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurav_hathi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sauravhathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sauravhathi" height="30" width="40" /></a>
+<a href="https://t.me/sauravhathi_yt_discussion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sauravhathi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sauravhathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauravhathi" height="30" width="40" /></a>
 </p>
 
