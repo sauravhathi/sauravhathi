@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravhathi" alt="sauravhathi" /></a> </p>
 
+
 - 🌱 I’m currently learning **Flutter, ReactJS and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sauravhathi](https://github.com/sauravhathi)
@@ -18,7 +19,7 @@
 <a href="https://linkedin.com/in/sauravhathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravhathi" height="30" width="40" /></a>
 <a href="https://instagram.com/saurav_hathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurav_hathi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sauravhathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sauravhathi" height="30" width="40" /></a>
-<a href="https://t.me/sauravhathi_yt_discussion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sauravhathi" height="30" width="40" /></a>
+<a href="https://t.me/sauravhathi_yt_discussion" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61316762/191683290-5bbfd5a8-4d59-40ac-b91e-350643ef9ed2.png" alt="sauravhathi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sauravhathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauravhathi" height="30" width="40" /></a>
 </p>
 
