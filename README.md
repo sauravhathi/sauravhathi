@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav hathi</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Web Engineer from India</h3>
 
 <h4 align="center"><a href="https://sauravhathi.github.io/">sauravhathi.github.io</a></h4>
 
@@ -7,14 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravhathi" alt="sauravhathi" /></a> </p>
 
-
-- 🌱 I’m currently learning **Flutter, ReactJS and Data Science**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sauravhathi](https://github.com/sauravhathi)
-
-- 💬 Ask me about **Java, C++, Python, JavaScript**
-
-- 📫 How to reach me **https://t.me/sauravhathi_yt_discussion**
+- 💬 Ask me about anything, I am happy to help.
+- 🚀 I love creating seamless user experiences and solving complex problems through code.
+- 💼 I'm available for freelance web development projects. If you have any opportunities, feel free to [contact me](https://www.linkedin.com/in/sauravhathi/)!
+- 📫 How to reach me: [https://t.me/sauravhathi_yt_discussion](https://t.me/sauravhathi_yt_discussion)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
